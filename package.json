@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/transi.lwc-l7gmcw9n-fork-l7gmtv56",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve dMt46bN3Dhm3oxA1sBMp --open"
+  }
+}
